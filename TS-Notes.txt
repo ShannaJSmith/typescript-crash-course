@@ -16,3 +16,11 @@ Best to use in large projects with multiple developers
 
 Notes:
 - Uses .ts and .tsx extension
+
+Installation:
+- npm i -g typescript
+- tsc -v (check version)
+
+Oraganization:
+- src file with tsc files
+- dist file rest of the files
