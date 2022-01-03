@@ -21,6 +21,6 @@ Installation:
 - npm i -g typescript
 - tsc -v (check version)
 
-Oraganization:
+Folder Structure:
 - src file with tsc files
-- dist file rest of the files
+- dist file with js files
